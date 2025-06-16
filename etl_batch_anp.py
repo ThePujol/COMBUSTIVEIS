@@ -7,7 +7,7 @@ import mysql.connector
 # — ajuste credenciais e habilite LOCAL INFILE
 DB_CONFIG = {
     'user': 'root',
-    'password': 'tads',
+    'password': 'SUASENHA',
     'host': 'localhost',
     'database': 'precos_combustiveis2',
     'allow_local_infile': True
